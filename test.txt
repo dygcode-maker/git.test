@@ -1,2 +1,3 @@
 Bu bir test dosyasıdır.
 git kurulumu başarılı
+değişiklik1
